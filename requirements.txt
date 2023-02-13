@@ -1,0 +1,2 @@
+playwrigh == 1.29.1
+pytest == 7.2.0
